@@ -1,0 +1,2 @@
+Error: Could not find or load main class src.Ejercicio2.txt
+Caused by: java.lang.ClassNotFoundException: src.Ejercicio2.txt
